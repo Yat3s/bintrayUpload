@@ -44,8 +44,9 @@ If you have some problems you can see Issues↓.
 - 如果最后一步卡在97%请检查你是否开启了proxy，检查你的gradle.properties下是否有proxy的信息，将之删除
 - 上传maven成功后你需要打开你的bintray，然后将你的项目add to jcenter，一般在1小时候左右就会审核成功
 - 该脚本在Mac OS X运行正常，不确保在linux上运行无误。
+- 如果你想修改你的项目名（com.android.library.项目名），你需要修改你的module名后重新上产
 - 有其他问题可以提Issues
-- 
+
 
 ## Others / 其他
 Pleasure for your pr and issues
