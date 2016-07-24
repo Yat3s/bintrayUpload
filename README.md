@@ -7,21 +7,25 @@ Yeah, you must have a bintray account. here to signup https://bintray.com
 Then you forward https://bintray.com/profile/edit   
 Click **apikey** and takes note **user name** and **apikey**  
 like this
+
+
 你需要一个bintray的账号，这里注册：https://bintray.com    
 然后到https://bintray.com/profile/edit    
 点击apikey，记录下自己的apikey和username。
 
 ## Start / 开始
-Yeah, we have completed 50%.  
-Then you need download **uploadToBintray.sh**, and put it under your module. eg: CustomView/app/uploadToBintray.sh  
-Open your terminal or use terminal in your android studio  and go to your app path  (maybe: cd app)
-Run ./uploadToBintray.sh, then you will know how to do that.
-Congratulation！
-If you have some problems you can see Issues↓.
-到这里已经完成了50%，是不是很简单。 
-接下来，你下载**uploadToBintray.sh**，把他放在你的module目录下，例如CustomView/app/uploadToBintray.sh
-然后打开你的终端或者android studio自带的终端，切换到你的app目录下 ，cd app
-最后运行./uploadToBintray.sh，然后你按照提示填写就行了。
+Yeah, we have completed 50%.   
+Then you need download **uploadToBintray.sh**, and put it under your module. eg: CustomView/app/uploadToBintray.sh    
+Open your terminal or use terminal in your android studio  and go to your app path  (maybe: cd app)  
+Run ./uploadToBintray.sh, then you will know how to do that.  
+Congratulation！  
+If you have some problems you can see Issues↓.  
+
+
+到这里已经完成了50%，是不是很简单。  
+接下来，你下载**uploadToBintray.sh**，把他放在你的module目录下，例如CustomView/app/uploadToBintray.sh  
+然后打开你的终端或者android studio自带的终端，切换到你的app目录下 ，cd app  
+最后运行./uploadToBintray.sh，然后你按照提示填写就行了。  
 
 
 
