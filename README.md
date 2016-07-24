@@ -30,8 +30,8 @@ If you have some problems you can see Issues↓.
 最后运行./uploadToBintray.sh，然后你按照提示填写就行了。  
 
 ![2](https://cloud.githubusercontent.com/assets/14801837/17085098/4f4beec6-5202-11e6-9660-abc8790db425.png)
-![3](https://cloud.githubusercontent.com/assets/14801837/17085119/f2d5dafc-5202-11e6-8de6-73e4ee514298.png)
-
+![3](https://cloud.githubusercontent.com/assets/14801837/17085250/865ef51c-5206-11e6-8c09-5605ce144c64.png)
+![5](https://cloud.githubusercontent.com/assets/14801837/17085251/879874a8-5206-11e6-93d9-07c9e031e938.png)
 
 ![4](https://cloud.githubusercontent.com/assets/14801837/17085136/8aed401e-5203-11e6-951c-ff177120e51a.png)
 
@@ -45,7 +45,7 @@ If you have some problems you can see Issues↓.
 - 如果最后一步卡在97%请检查你是否开启了proxy，检查你的gradle.properties下是否有proxy的信息，将之删除
 - 上传maven成功后你需要打开你的bintray，然后将你的项目add to jcenter，一般在1小时候左右就会审核成功
 - 该脚本在Mac OS X运行正常，不确保在linux上运行无误。
-- 如果你想修改你的项目名（com.android.library.项目名），你需要修改你的module名后重新上产
+- 如果你想修改你的项目名（com.android.library.项目名），你需要修改你的module名后重新上传
 - 有其他问题可以提Issues
 
 
