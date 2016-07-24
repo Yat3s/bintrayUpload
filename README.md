@@ -13,6 +13,8 @@ like this
 然后到https://bintray.com/profile/edit    
 点击apikey，记录下自己的apikey和username。
 
+![1](https://cloud.githubusercontent.com/assets/14801837/17085094/3cf28fe6-5202-11e6-871b-f8cbbb22c1d5.png)
+
 ## Start / 开始
 Yeah, we have completed 50%.   
 Then you need download **uploadToBintray.sh**, and put it under your module. eg: CustomView/app/uploadToBintray.sh    
@@ -27,6 +29,7 @@ If you have some problems you can see Issues↓.
 然后打开你的终端或者android studio自带的终端，切换到你的app目录下 ，cd app  
 最后运行./uploadToBintray.sh，然后你按照提示填写就行了。  
 
+![2](https://cloud.githubusercontent.com/assets/14801837/17085098/4f4beec6-5202-11e6-9660-abc8790db425.png)
 
 
 
@@ -39,4 +42,10 @@ If you have some problems you can see Issues↓.
 - 第一次运行需要下载几个依赖库可能会占用时间
 - 如果最后一步卡在97%请检查你是否开启了proxy，检查你的gradle.properties下是否有proxy的信息，将之删除
 - 上传maven成功后你需要打开你的bintray，然后将你的项目add to jcenter，一般在1小时候左右就会审核成功
+- 该脚本在Mac OS X运行正常，不确保在linux上运行无误。
 - 有其他问题可以提Issues
+- 
+
+## Others / 其他
+Pleasure for your pr and issues
+欢迎提Pr / Issues.  
