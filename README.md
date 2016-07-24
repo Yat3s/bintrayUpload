@@ -30,6 +30,7 @@ If you have some problems you can see Issues↓.
 最后运行./uploadToBintray.sh，然后你按照提示填写就行了。  
 
 ![2](https://cloud.githubusercontent.com/assets/14801837/17085098/4f4beec6-5202-11e6-9660-abc8790db425.png)
+![3](https://cloud.githubusercontent.com/assets/14801837/17085119/f2d5dafc-5202-11e6-8de6-73e4ee514298.png)
 
 
 
