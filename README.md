@@ -33,6 +33,7 @@ If you have some problems you can see Issues↓.
 ![3](https://cloud.githubusercontent.com/assets/14801837/17085119/f2d5dafc-5202-11e6-8de6-73e4ee514298.png)
 
 
+![4](https://cloud.githubusercontent.com/assets/14801837/17085136/8aed401e-5203-11e6-951c-ff177120e51a.png)
 
 下面罗列一些可能出现的问题
 
